@@ -1,3 +1,5 @@
+This is copy of https://github.com/Fudge/infowars Author: https://github.com/Fudge
+
 This repository contains machine generated transcripts of The Alex Jones Show, collected from several sources.
 All of the recent episodes come from the InfoWars RSS archive which contains episodes from 2008-03-18
 to today. Most of the episodes from before 2008 come from Genesis Communications Network archives, with
